@@ -12,5 +12,7 @@ public class HelloWorld {
 		System.out.println(str6.toString());
 		String str7 = null;
 		System.out.println(str7.toString());
+		String str8 = null;
+		System.out.println(str8.toString());
     }
 }
