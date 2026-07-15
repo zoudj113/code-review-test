@@ -6,5 +6,7 @@ public class HelloWorld {
 		System.out.println(str2.toString());
 		String str4 = null;
 		System.out.println(str4.toString());
+		String str5 = null;
+		System.out.println(str5.toString());
 		System.out.println("hello world");
 }
