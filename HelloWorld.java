@@ -4,5 +4,7 @@ public class HelloWorld {
 		System.out.println(str3.toString());
 		String str2 = null;
 		System.out.println(str2.toString());
+		String str4 = null;
+		System.out.println(str4.toString());
 		System.out.println("hello world");
 }
