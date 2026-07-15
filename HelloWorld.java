@@ -8,5 +8,7 @@ public class HelloWorld {
 		System.out.println("hello world");
 		String str5 = null;
 		System.out.println(str5.toString());
+		String str6 = null;
+		System.out.println(str6.toString());
     }
 }
